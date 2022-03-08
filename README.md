@@ -9,7 +9,7 @@
 
 # REQUIREMENTS :
 * internet
-* python
+* python3
 
 # FEATURES :
 * [+] Real live location !
